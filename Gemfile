@@ -12,6 +12,7 @@ gem 'rake', '~> 11.2'
 gem 'therubyracer'
 gem 'execjs'
 gem 'sprockets'
+gem 'bootstrap-sass',       '3.2.0.0'
 
 group :development, :test do
   gem 'sqlite3',     '1.3.9'
